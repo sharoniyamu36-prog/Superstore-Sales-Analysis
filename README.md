@@ -2,6 +2,9 @@
 # Superstore Sales Performance, Profitability & Discount Impact Analysis (2014–2017)
 
 ## 1. Project Overview
+## Dashboard Preview
+
+![Superstore Dashboard](Superstore_Dashboard.png)
 
 This project focuses on analysing the sales performance and profitability of a retail company using the Sample Superstore dataset, covering the period 2014–2017.
 
